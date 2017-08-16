@@ -1,1 +1,1 @@
-echo >> this is script test
+echo "this is script test" > test.log
